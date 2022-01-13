@@ -7,7 +7,7 @@ public class test1 {
 		System.out.println("eat something....hhit");
 		else {
 		System.out.println("Do work.......");
+		System.out.println("added this new line");
 		}
-
 }
 }
